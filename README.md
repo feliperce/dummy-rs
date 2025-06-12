@@ -54,6 +54,8 @@ dummy-rs large_file.bin 1G --fill
 dummy-rs small.dat 1024
 ```
 
+![Demonstração do dummy-rs](demo/demo.gif)
+
 ## Benchmark
 
 Upon completing the file creation, `dummy-rs` will display performance statistics:

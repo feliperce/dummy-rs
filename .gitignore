@@ -1,1 +1,7 @@
-/target
+**/*.rs.bk
+**/*.swp
+*.log
+.DS_Store
+.env
+/.idea
+/dummy_files/
